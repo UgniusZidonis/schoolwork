@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\Universalus metodas\bin\Debug\Universalus metodas.exe.config
+Z:\Visual C#\L1pirma-1\Universalus metodas\bin\Debug\Universalus metodas.exe
+Z:\Visual C#\L1pirma-1\Universalus metodas\bin\Debug\Universalus metodas.pdb
+Z:\Visual C#\L1pirma-1\Universalus metodas\obj\Debug\Universalus metodas.exe
+Z:\Visual C#\L1pirma-1\Universalus metodas\obj\Debug\Universalus metodas.pdb

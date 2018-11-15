@@ -1,0 +1,12 @@
+Z:\Visual C#\P3\Dviratis_3\bin\Debug\Dviratis_3.exe.config
+Z:\Visual C#\P3\Dviratis_3\bin\Debug\Dviratis_3.exe
+Z:\Visual C#\P3\Dviratis_3\bin\Debug\Dviratis_3.pdb
+Z:\Visual C#\P3\Dviratis_3\obj\Debug\Dviratis_3.csprojResolveAssemblyReference.cache
+Z:\Visual C#\P3\Dviratis_3\obj\Debug\Dviratis_3.exe
+Z:\Visual C#\P3\Dviratis_3\obj\Debug\Dviratis_3.pdb
+Z:\Visual CSharp\P3\Dviratis_3\bin\Debug\Dviratis_3.exe.config
+Z:\Visual CSharp\P3\Dviratis_3\obj\Debug\Dviratis_3.exe
+Z:\Visual CSharp\P3\Dviratis_3\obj\Debug\Dviratis_3.pdb
+Z:\Visual CSharp\P3\Dviratis_3\bin\Debug\Dviratis_3.exe
+Z:\Visual CSharp\P3\Dviratis_3\bin\Debug\Dviratis_3.pdb
+Z:\Visual CSharp\P3\Dviratis_3\obj\Debug\Dviratis_3.csprojResolveAssemblyReference.cache

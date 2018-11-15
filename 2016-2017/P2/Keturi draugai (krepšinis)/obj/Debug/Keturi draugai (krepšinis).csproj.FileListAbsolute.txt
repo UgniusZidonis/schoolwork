@@ -1,0 +1,8 @@
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai (krepšinis)\bin\Debug\Keturi draugai (krepšinis).exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai (krepšinis)\obj\Debug\Keturi draugai (krepšinis).csprojResolveAssemblyReference.cache
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\bin\Debug\Keturi draugai (krepšinis).exe.config
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\bin\Debug\Keturi draugai (krepšinis).exe
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\bin\Debug\Keturi draugai (krepšinis).pdb
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\obj\Debug\Keturi draugai (krepšinis).csprojResolveAssemblyReference.cache
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\obj\Debug\Keturi draugai (krepšinis).exe
+Z:\Visual C#\P2\Keturi draugai (krepšinis)\obj\Debug\Keturi draugai (krepšinis).pdb

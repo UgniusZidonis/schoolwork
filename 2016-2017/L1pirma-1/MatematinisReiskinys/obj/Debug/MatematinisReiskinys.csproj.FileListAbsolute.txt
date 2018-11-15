@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\MatematinisReiskinys\bin\Debug\MatematinisReiskinys.exe.config
+Z:\Visual C#\L1pirma-1\MatematinisReiskinys\bin\Debug\MatematinisReiskinys.exe
+Z:\Visual C#\L1pirma-1\MatematinisReiskinys\bin\Debug\MatematinisReiskinys.pdb
+Z:\Visual C#\L1pirma-1\MatematinisReiskinys\obj\Debug\MatematinisReiskinys.exe
+Z:\Visual C#\L1pirma-1\MatematinisReiskinys\obj\Debug\MatematinisReiskinys.pdb

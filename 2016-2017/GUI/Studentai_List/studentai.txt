@@ -1,0 +1,7 @@
+﻿Jonaitis Jonas; 8; vyras
+Petraitis Petras; 7; vyras
+Antanaitis Antanas; 10; vyras
+Giedraitis Giedrius; 5; vyras
+Onaitytė Ona; 8; moteris
+Juozaitis Juozas; 4; vyras
+Ramunaitė Ramunė; 5; moteris

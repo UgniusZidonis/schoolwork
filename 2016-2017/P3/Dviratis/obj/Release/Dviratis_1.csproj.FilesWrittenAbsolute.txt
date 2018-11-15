@@ -1,0 +1,12 @@
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Release/Dviratis.exe.config
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Release/Dviratis.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Release/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Release/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Release/Dviratis.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/bin/Release/Dviratis.exe.config
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/bin/Release/Dviratis.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/bin/Release/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/obj/Release/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/P3/Dviratis/obj/Release/Dviratis.exe.mdb

@@ -1,0 +1,3 @@
+Z:\Visual CSharp\P5\P5\Ilgiausia teksto eilutė\bin\Debug\Ilgiausia teksto eilutė.exe.config
+Z:\Visual CSharp\P5\P5\Ilgiausia teksto eilutė\obj\Debug\Ilgiausia teksto eilutė.exe
+Z:\Visual CSharp\P5\P5\Ilgiausia teksto eilutė\obj\Debug\Ilgiausia teksto eilutė.pdb

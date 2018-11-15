@@ -1,0 +1,7 @@
+Z:\Visual C#\P2\Kelionės kaina\bin\Debug\Kelionės kaina.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\bin\Debug\Kelionės kaina.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\bin\Debug\Kelionės kaina.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\bin\Debug\Kelionės kaina.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\obj\Debug\Kelionės kaina.csprojResolveAssemblyReference.cache
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\obj\Debug\Kelionės kaina.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Kelionės kaina\obj\Debug\Kelionės kaina.pdb

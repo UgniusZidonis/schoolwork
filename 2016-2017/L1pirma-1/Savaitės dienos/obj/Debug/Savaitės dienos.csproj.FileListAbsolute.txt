@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\Savaitės dienos\bin\Debug\Savaitės dienos.exe.config
+Z:\Visual C#\L1pirma-1\Savaitės dienos\bin\Debug\Savaitės dienos.exe
+Z:\Visual C#\L1pirma-1\Savaitės dienos\bin\Debug\Savaitės dienos.pdb
+Z:\Visual C#\L1pirma-1\Savaitės dienos\obj\Debug\Savaitės dienos.exe
+Z:\Visual C#\L1pirma-1\Savaitės dienos\obj\Debug\Savaitės dienos.pdb

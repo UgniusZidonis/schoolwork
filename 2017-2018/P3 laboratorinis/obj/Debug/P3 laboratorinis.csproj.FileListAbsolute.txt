@@ -1,0 +1,7 @@
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\obj\Debug\P3 laboratorinis.csprojResolveAssemblyReference.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\obj\Debug\P3 laboratorinis.csproj.CoreCompileInputs.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\bin\Debug\P3 laboratorinis.exe.config
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\bin\Debug\P3 laboratorinis.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\bin\Debug\P3 laboratorinis.pdb
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\obj\Debug\P3 laboratorinis.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P3 laboratorinis\obj\Debug\P3 laboratorinis.pdb

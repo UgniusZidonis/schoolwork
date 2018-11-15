@@ -1,0 +1,99 @@
+Pradinis sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|        Duona |       maisto |  0,92 |   100  |
+|     Sviestas |       maisto |  2,42 |   200  |
+|       Bulvės |     daržovės |  0,27 |   200  |
+|     Kopūstai |     daržovės |  1,09 |   300  |
+|       Morkos |     daržovės |  0,88 |   150  |
+|      Burokai |     daržovės |  0,88 |   120  |
+\*--------------------------------------------*/
+
+Naujas sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|       Bulvės |     daržovės |  0,27 |   200  |
+|     Kopūstai |     daržovės |  1,09 |   300  |
+|       Morkos |     daržovės |  0,88 |   150  |
+|      Burokai |     daržovės |  0,88 |   120  |
+\*--------------------------------------------*/
+
+Naujas rikiuotas sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|     Kopūstai |     daržovės |  1,09 |   300  |
+|      Burokai |     daržovės |  0,88 |   120  |
+|       Morkos |     daržovės |  0,88 |   150  |
+|       Bulvės |     daržovės |  0,27 |   200  |
+\*--------------------------------------------*/
+Vidurkis: 192,50
+Bendra suma: 618,60
+
+Trečias sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|        Dešra |       maisto |  0,63 |   246  |
+|        Sūris |       maisto |  1,65 |   134  |
+|    Brokoliai |     daržovės |  2,60 |    20  |
+|     Svogūnai |     daržovės |  0,12 |   654  |
+|        Porai |     daržovės |  2,30 |    34  |
+|   Čiobreliai |  prieskoniai |  2,00 |   100  |
+\*--------------------------------------------*/
+
+Antras sąrašas (papildytas trečiu)
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|    Brokoliai |     daržovės |  2,60 |    20  |
+|        Porai |     daržovės |  2,30 |    34  |
+|   Čiobreliai |  prieskoniai |  2,00 |   100  |
+|     Kopūstai |     daržovės |  1,09 |   300  |
+|      Burokai |     daržovės |  0,88 |   120  |
+|       Morkos |     daržovės |  0,88 |   150  |
+|       Bulvės |     daržovės |  0,27 |   200  |
+|     Svogūnai |     daržovės |  0,12 |   654  |
+\*--------------------------------------------*/
+
+---Nauji sąrašai:
+
+Pirmas sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|        Duona |       maisto |  1,01 |   100  |
+|     Sviestas |       maisto |  2,66 |   200  |
+|       Bulvės |     daržovės |  0,33 |   200  |
+|     Kopūstai |     daržovės |  1,32 |   300  |
+|       Morkos |     daržovės |  1,06 |   150  |
+|      Burokai |     daržovės |  1,06 |   120  |
+\*--------------------------------------------*/
+
+Antras sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|        Dešra |       maisto |  0,69 |   246  |
+|        Sūris |       maisto |  1,82 |   134  |
+|    Brokoliai |     daržovės |  3,15 |    20  |
+|     Svogūnai |     daržovės |  0,15 |   654  |
+|        Porai |     daržovės |  2,78 |    34  |
+|   Čiobreliai |  prieskoniai |  2,42 |   100  |
+\*--------------------------------------------*/
+
+Trečias sąrašas
+------------------------------------------------
+|     Name     |     Type     | Price | Amount |
+------------------------------------------------
+|    Brokoliai |     daržovės |  3,15 |    20  |
+|        Porai |     daržovės |  2,78 |    34  |
+|   Čiobreliai |  prieskoniai |  2,42 |   100  |
+|     Kopūstai |     daržovės |  1,32 |   300  |
+|      Burokai |     daržovės |  1,06 |   120  |
+|       Morkos |     daržovės |  1,06 |   150  |
+|       Bulvės |     daržovės |  0,33 |   200  |
+|     Svogūnai |     daržovės |  0,15 |   654  |
+\*--------------------------------------------*/

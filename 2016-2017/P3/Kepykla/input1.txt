@@ -1,0 +1,4 @@
+﻿Vilniaus duona
+Agota;ruginiai;2;0,6;7
+Vilniaus;ruginiai;3;0,6;5
+Saulės;kvietiniai;4;0,4;4

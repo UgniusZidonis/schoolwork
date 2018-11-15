@@ -1,0 +1,6 @@
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.exe.config
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.exe
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.pdb
+Z:\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.csprojResolveAssemblyReference.cache
+Z:\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.exe
+Z:\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.pdb

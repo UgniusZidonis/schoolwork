@@ -1,0 +1,24 @@
+   Pradinis vaizdo klipų sąrašas
+------------------------------------------------------------
+ Pavadinimas   Produkto grupė   Trukmė   Kraštinių santykis
+------------------------------------------------------------
+       Duona          maistas     1:15           4:3
+        Kėdė           baldai     1:15           4:3
+        Kėdė           baldai     1:13          16:9
+       Dešra          maistas     1:05           4:3
+      Sultys          maistas     1:15          16:9
+      Stalas           baldai     1:18           4:3
+   Orchidėja            gėlės     1:20           4:3
+
+Bendra visų vaizdo klipų trukmė: 8:41
+
+   Surikiuotas atrinktų vaizdo klipų sąrašas
+------------------------------------------------------------
+ Pavadinimas   Produkto grupė   Trukmė   Kraštinių santykis
+------------------------------------------------------------
+        Kėdė           baldai     1:15           4:3
+   Orchidėja            gėlės     1:20           4:3
+       Dešra          maistas     1:05           4:3
+
+Bendra visų vaizdo klipų trukmė: 3:40
+

@@ -1,0 +1,9 @@
+Z:\Visual C#\P2\dede\bin\Debug\dede.exe.config
+Z:\Visual C#\P2\dede\bin\Debug\dede.exe
+Z:\Visual C#\P2\dede\bin\Debug\dede.pdb
+Z:\Visual C#\P2\dede\obj\Debug\dede.exe
+Z:\Visual C#\P2\dede\obj\Debug\dede.pdb
+Z:\Visual C#\P2\dede\obj\Debug\Plytos.csprojResolveAssemblyReference.cache
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\dede\bin\Debug\dede.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\dede\obj\Debug\dede.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\dede\obj\Debug\dede.pdb

@@ -1,0 +1,12 @@
+Z:\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.exe.config
+Z:\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.exe
+Z:\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.pdb
+Z:\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.exe
+Z:\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\bin\Debug\SalygosSakinys.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.csprojResolveAssemblyReference.cache
+Z:\Visual C#\L1pirma-1\SalygosSakinys\obj\Debug\SalygosSakinys.csprojResolveAssemblyReference.cache

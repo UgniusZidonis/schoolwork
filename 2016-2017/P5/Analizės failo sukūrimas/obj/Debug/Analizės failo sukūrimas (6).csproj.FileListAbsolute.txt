@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\bin\Debug\Analizės failo sukūrimas.exe.config
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\bin\Debug\Analizės failo sukūrimas.exe
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\bin\Debug\Analizės failo sukūrimas.pdb
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\obj\Debug\Analizės failo sukūrimas.exe
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\obj\Debug\Analizės failo sukūrimas.pdb
+Z:\Visual CSharp\P5\P5\Analizės failo sukūrimas\obj\Debug\Analizės failo sukūrimas (6).csprojResolveAssemblyReference.cache

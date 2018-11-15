@@ -1,0 +1,6 @@
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\bin\Debug\LDS_11.exe.config
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\bin\Debug\LDS_11.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\bin\Debug\LDS_11.pdb
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\obj\Debug\LDS_11.csprojResolveAssemblyReference.cache
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\obj\Debug\LDS_11.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_11\obj\Debug\LDS_11.pdb

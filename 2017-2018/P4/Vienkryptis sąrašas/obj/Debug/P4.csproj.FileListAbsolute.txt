@@ -1,0 +1,7 @@
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.csprojResolveAssemblyReference.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.exe.config
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.pdb
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.pdb

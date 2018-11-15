@@ -1,0 +1,35 @@
+Vilniaus duona:
+|-------------------------------------------------------------|
+|                 |            |         |        |           |
+|     Kepinys     |   Miltai   | Rupumas | Svoris | Prieaugis |
+|                 |            |         |        |           |
+|-------------------------------------------------------------|
+|          Agota  |   ruginiai |    2    |  0,60  |     7     |
+|       Vilniaus  |   ruginiai |    3    |  0,60  |     5     |
+|         Saulės  | kvietiniai |    4    |  0,40  |     4     |
+---------------------------------------------------------------
+Nerupiausi kepiniai: Agota (2).
+Didžiausio prieaugio kepiniai: Agota (7%).
+
+Biržų duona:
+|-------------------------------------------------------------|
+|                 |            |         |        |           |
+|     Kepinys     |   Miltai   | Rupumas | Svoris | Prieaugis |
+|                 |            |         |        |           |
+|-------------------------------------------------------------|
+|    Šeimininkės  |   ruginiai |    2    |  1,10  |     6     |
+|          Ajerų  |   ruginiai |    3    |  0,70  |     7     |
+---------------------------------------------------------------
+Nerupiausi kepiniai: Šeimininkės (2).
+Didžiausio prieaugio kepiniai: Ajerų (7%).
+
+Didžiausio prieaugio kepinys yra abiejose kepyklose:
+Pirmoje: Agota(7)
+Antroje: Ajerų(7)
+|------------------------------------------------------------------|
+|                  |             |         |           |           |
+|    Pavadinimas   |   Miltai    | Rupumas | Prieaugis |   Svoris  |
+|                  |             |         |           |           |
+|------------------------------------------------------------------|
+|          Ajerų   |   ruginiai  |    3    |     7     |    0,70   |
+--------------------------------------------------------------------

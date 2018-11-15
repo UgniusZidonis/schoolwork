@@ -1,0 +1,5 @@
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Home/P3/Dviratis_3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Home/P3/Dviratis_3/bin/Debug/Dviratis_3.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Home/P3/Dviratis_3/bin/Debug/Dviratis_3.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Home/P3/Dviratis_3/obj/x86/Debug/Dviratis_3.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Home/P3/Dviratis_3/obj/x86/Debug/Dviratis_3.exe.mdb

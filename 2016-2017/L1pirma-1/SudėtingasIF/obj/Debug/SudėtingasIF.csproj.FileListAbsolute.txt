@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\SudėtingasIF\bin\Debug\SudėtingasIF.exe.config
+Z:\Visual C#\L1pirma-1\SudėtingasIF\bin\Debug\SudėtingasIF.exe
+Z:\Visual C#\L1pirma-1\SudėtingasIF\bin\Debug\SudėtingasIF.pdb
+Z:\Visual C#\L1pirma-1\SudėtingasIF\obj\Debug\SudėtingasIF.exe
+Z:\Visual C#\L1pirma-1\SudėtingasIF\obj\Debug\SudėtingasIF.pdb

@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P4\U4_11\obj\x86\Debug\U4_11.exe
+Z:\Visual CSharp\P4\U4_11\bin\Debug\U4_11.exe
+Z:\Visual CSharp\P4\U4_11\bin\Debug\U4_11.pdb
+Z:\Visual CSharp\P4\U4_11\obj\x86\Debug\U4_11.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\U4_11\obj\x86\Debug\U4_11.pdb

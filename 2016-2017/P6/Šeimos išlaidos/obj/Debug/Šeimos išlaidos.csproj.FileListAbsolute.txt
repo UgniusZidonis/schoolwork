@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P6\Šeimos išlaidos\bin\Debug\Šeimos išlaidos.exe.config
+Z:\Visual CSharp\P6\Šeimos išlaidos\bin\Debug\Šeimos išlaidos.exe
+Z:\Visual CSharp\P6\Šeimos išlaidos\bin\Debug\Šeimos išlaidos.pdb
+Z:\Visual CSharp\P6\Šeimos išlaidos\obj\Debug\Šeimos išlaidos.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P6\Šeimos išlaidos\obj\Debug\Šeimos išlaidos.exe
+Z:\Visual CSharp\P6\Šeimos išlaidos\obj\Debug\Šeimos išlaidos.pdb

@@ -1,0 +1,21 @@
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Knygynai.csprojAssemblyReference.cache
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Knygynai.csproj.CoreCompileInputs.cache
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\zidon\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\zidon\source\repos\Knygynai\Knygynai\bin\Debug\ConsoleApp1.exe.config
+C:\Users\zidon\source\repos\Knygynai\Knygynai\bin\Debug\ConsoleApp1.exe
+C:\Users\zidon\source\repos\Knygynai\Knygynai\bin\Debug\ConsoleApp1.pdb
+C:\Users\zidon\source\repos\Knygynai\Knygynai\obj\Debug\Knygynai.csprojAssemblyReference.cache
+C:\Users\zidon\source\repos\Knygynai\Knygynai\obj\Debug\Knygynai.csproj.CoreCompileInputs.cache
+C:\Users\zidon\source\repos\Knygynai\Knygynai\obj\Debug\ConsoleApp1.exe
+C:\Users\zidon\source\repos\Knygynai\Knygynai\obj\Debug\ConsoleApp1.pdb
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\obj\Debug\Knygynai.csprojAssemblyReference.cache
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\obj\Debug\Knygynai.csproj.CoreCompileInputs.cache
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\obj\Debug\ConsoleApp1.exe
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\obj\Debug\ConsoleApp1.pdb
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\bin\Debug\ConsoleApp1.exe.config
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\bin\Debug\ConsoleApp1.exe
+C:\Users\zidon\Dropbox\Mokykla\Informatika\Programavimas\C#\Tasks\2017-2018\P6 laboratorinis\bin\Debug\ConsoleApp1.pdb

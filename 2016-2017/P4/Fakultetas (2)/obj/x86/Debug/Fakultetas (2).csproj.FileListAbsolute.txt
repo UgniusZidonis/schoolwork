@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P4\Fakultetas (2)\obj\x86\Debug\Fakultetas (2).csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\Fakultetas (2)\bin\Debug\Fakultetas.2.exe
+Z:\Visual CSharp\P4\Fakultetas (2)\bin\Debug\Fakultetas.2.pdb
+Z:\Visual CSharp\P4\Fakultetas (2)\obj\x86\Debug\Fakultetas.2.exe
+Z:\Visual CSharp\P4\Fakultetas (2)\obj\x86\Debug\Fakultetas.2.pdb

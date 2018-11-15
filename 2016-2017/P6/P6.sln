@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prekybos bazė (1, 2)", "Prekybos bazė\Prekybos bazė (1, 2).csproj", "{CFC99C9F-77F7-42C1-BDAA-293C7025F40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Šeimos išlaidos (3, 4)", "Šeimos išlaidos\Šeimos išlaidos (3, 4).csproj", "{29FF25B9-CA5D-4D06-B540-935A52A79A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mokinių laikas, praleistas internete (5)", "Mokinių laikas, praleistas internete\Mokinių laikas, praleistas internete (5).csproj", "{2234E647-40C1-4F0B-B5FA-E5DE9A24B947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paskaitos (U6_11)", "Paskaitos (U6_11)\Paskaitos (U6_11).csproj", "{DA0B75D7-D59D-45C6-B61F-E1C59A20CB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC99C9F-77F7-42C1-BDAA-293C7025F40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC99C9F-77F7-42C1-BDAA-293C7025F40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC99C9F-77F7-42C1-BDAA-293C7025F40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC99C9F-77F7-42C1-BDAA-293C7025F40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FF25B9-CA5D-4D06-B540-935A52A79A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FF25B9-CA5D-4D06-B540-935A52A79A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FF25B9-CA5D-4D06-B540-935A52A79A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FF25B9-CA5D-4D06-B540-935A52A79A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2234E647-40C1-4F0B-B5FA-E5DE9A24B947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2234E647-40C1-4F0B-B5FA-E5DE9A24B947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2234E647-40C1-4F0B-B5FA-E5DE9A24B947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2234E647-40C1-4F0B-B5FA-E5DE9A24B947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0B75D7-D59D-45C6-B61F-E1C59A20CB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0B75D7-D59D-45C6-B61F-E1C59A20CB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0B75D7-D59D-45C6-B61F-E1C59A20CB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0B75D7-D59D-45C6-B61F-E1C59A20CB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

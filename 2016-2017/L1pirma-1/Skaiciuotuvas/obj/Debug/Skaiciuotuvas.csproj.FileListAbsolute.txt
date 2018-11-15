@@ -1,0 +1,6 @@
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe.config
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.csprojResolveAssemblyReference.cache
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.exe
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\bin\Debug\Skaiciuotuvas.pdb
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.exe
+Z:\Visual C#\L1pirma-1\Skaiciuotuvas\obj\Debug\Skaiciuotuvas.pdb

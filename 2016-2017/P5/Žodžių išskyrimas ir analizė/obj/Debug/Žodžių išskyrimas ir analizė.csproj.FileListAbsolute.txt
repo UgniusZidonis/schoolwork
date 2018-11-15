@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir analizė\bin\Debug\Žodžių išskyrimas ir analizė.exe.config
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir analizė\bin\Debug\Žodžių išskyrimas ir analizė.exe
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir analizė\bin\Debug\Žodžių išskyrimas ir analizė.pdb
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir analizė\obj\Debug\Žodžių išskyrimas ir analizė.exe
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir analizė\obj\Debug\Žodžių išskyrimas ir analizė.pdb

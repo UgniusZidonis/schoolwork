@@ -1,0 +1,11 @@
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.exe.config
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\P6\Mokinių laikas, praleistas internete\obj\Debug\Mokinių laikas, praleistas internete.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\P6\Mokinių laikas, praleistas internete\obj\Debug\Mokinių laikas, praleistas internete.pdb
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.pdb
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.exe.config
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\obj\Debug\Mokinių laikas, praleistas internete.exe
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\obj\Debug\Mokinių laikas, praleistas internete.pdb
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.exe
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\bin\Debug\Mokinių laikas, praleistas internete.pdb
+Z:\Visual CSharp\P6\Mokinių laikas, praleistas internete\obj\Debug\Mokinių laikas, praleistas internete (5).csprojResolveAssemblyReference.cache

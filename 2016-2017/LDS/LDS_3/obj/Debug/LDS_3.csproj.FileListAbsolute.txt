@@ -1,0 +1,5 @@
+Z:\Visual CSharp\LDS\LDS_3\bin\Debug\LDS_3.exe.config
+Z:\Visual CSharp\LDS\LDS_3\bin\Debug\LDS_3.exe
+Z:\Visual CSharp\LDS\LDS_3\bin\Debug\LDS_3.pdb
+Z:\Visual CSharp\LDS\LDS_3\obj\Debug\LDS_3.exe
+Z:\Visual CSharp\LDS\LDS_3\obj\Debug\LDS_3.pdb

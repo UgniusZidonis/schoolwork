@@ -1,0 +1,12 @@
+Z:\Visual CSharp\P4\P4\Fakultetas\bin\Debug\Fakultetas.exe.config
+Z:\Visual CSharp\P4\P4\Fakultetas\bin\Debug\Fakultetas.exe
+Z:\Visual CSharp\P4\P4\Fakultetas\bin\Debug\Fakultetas.pdb
+Z:\Visual CSharp\P4\P4\Fakultetas\obj\Debug\Fakultetas.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\P4\Fakultetas\obj\Debug\Fakultetas.exe
+Z:\Visual CSharp\P4\P4\Fakultetas\obj\Debug\Fakultetas.pdb
+Z:\Visual CSharp\P4\Fakultetas\bin\Debug\Fakultetas.exe.config
+Z:\Visual CSharp\P4\Fakultetas\bin\Debug\Fakultetas.exe
+Z:\Visual CSharp\P4\Fakultetas\bin\Debug\Fakultetas.pdb
+Z:\Visual CSharp\P4\Fakultetas\obj\Debug\Fakultetas.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\Fakultetas\obj\Debug\Fakultetas.exe
+Z:\Visual CSharp\P4\Fakultetas\obj\Debug\Fakultetas.pdb

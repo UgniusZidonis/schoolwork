@@ -1,0 +1,6 @@
+﻿Dešra;      maisto;      0,63; 246
+Sūris;      maisto;      1,65; 134
+Brokoliai;  daržovės;    2,60;  20
+Svogūnai;   daržovės;    0,12; 654
+Porai;      daržovės;    2,30;  34
+Čiobreliai; prieskoniai; 2,00; 100

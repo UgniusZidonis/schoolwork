@@ -1,0 +1,6 @@
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\bin\Debug\LDS_2 (Stačiakampiai).exe.config
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\bin\Debug\LDS_2 (Stačiakampiai).exe
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\bin\Debug\LDS_2 (Stačiakampiai).pdb
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\obj\Debug\LDS_2 (Stačiakampiai).csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\obj\Debug\LDS_2 (Stačiakampiai).exe
+Z:\Visual CSharp\LDS\LDS_2 (Stačiakampiai)\obj\Debug\LDS_2 (Stačiakampiai).pdb

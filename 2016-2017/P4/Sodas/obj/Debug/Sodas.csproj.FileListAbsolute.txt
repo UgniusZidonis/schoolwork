@@ -1,0 +1,12 @@
+Z:\Visual CSharp\P4\P4\Sodas\bin\Debug\Sodas.exe.config
+Z:\Visual CSharp\P4\P4\Sodas\bin\Debug\Sodas.exe
+Z:\Visual CSharp\P4\P4\Sodas\bin\Debug\Sodas.pdb
+Z:\Visual CSharp\P4\P4\Sodas\obj\Debug\Sodas.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\P4\Sodas\obj\Debug\Sodas.exe
+Z:\Visual CSharp\P4\P4\Sodas\obj\Debug\Sodas.pdb
+Z:\Visual CSharp\P4\Sodas\bin\Debug\Sodas.exe.config
+Z:\Visual CSharp\P4\Sodas\bin\Debug\Sodas.exe
+Z:\Visual CSharp\P4\Sodas\bin\Debug\Sodas.pdb
+Z:\Visual CSharp\P4\Sodas\obj\Debug\Sodas.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P4\Sodas\obj\Debug\Sodas.exe
+Z:\Visual CSharp\P4\Sodas\obj\Debug\Sodas.pdb

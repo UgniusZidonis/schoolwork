@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\Metodai\bin\Debug\Metodai.exe.config
+Z:\Visual C#\L1pirma-1\Metodai\bin\Debug\Metodai.exe
+Z:\Visual C#\L1pirma-1\Metodai\bin\Debug\Metodai.pdb
+Z:\Visual C#\L1pirma-1\Metodai\obj\Debug\Metodai.exe
+Z:\Visual C#\L1pirma-1\Metodai\obj\Debug\Metodai.pdb

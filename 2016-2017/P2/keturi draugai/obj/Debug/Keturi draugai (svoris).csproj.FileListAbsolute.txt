@@ -1,0 +1,5 @@
+Z:\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.exe.config
+Z:\Visual C#\P2\Keturi draugai\obj\Debug\Keturi draugai.exe
+Z:\Visual C#\P2\Keturi draugai\obj\Debug\Keturi draugai.pdb
+Z:\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.exe
+Z:\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.pdb

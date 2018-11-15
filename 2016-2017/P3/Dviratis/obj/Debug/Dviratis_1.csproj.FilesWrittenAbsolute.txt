@@ -1,0 +1,8 @@
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Debug/Dviratis.exe.config
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Debug/Dviratis.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Debug/Dviratis.pdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/bin/Debug/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Debug/Dviratis.exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Debug/Dviratis.exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual C#/P3/Dviratis/obj/Debug/Dviratis.pdb

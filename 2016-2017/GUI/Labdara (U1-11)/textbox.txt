@@ -1,0 +1,64 @@
+Telebimbam
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+   vyriški   pavasariniai      43   patenkinama    juoda
+ moteriški     vasariniai      39   patenkinama    raudona
+  vaikiški       rudeniai      35   patenkinama    ruda
+   vyriški      žieminiai      46   patenkinama    juoda
+   vyriški     vasariniai      39   patenkinama    balta
+   vyriški   pavasariniai      33   patenkinama    rožinė
+----------
+Apsikeisk
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški      žieminiai      32          gera    juoda
+ moteriški   pavasariniai      41    labai gera    mėlyna
+   vyriški     vasariniai      43    labai gera    ruda
+   vyriški   pavasariniai      43          gera    pilka
+  vaikiški   pavasariniai      43    labai gera    mėlyna
+  vaikiški       rudeniai      36    labai gera    balta
+ moteriški      žieminiai      42    labai gera    juoda
+----------
+Telebimbam - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški       rudeniai      35   patenkinama    ruda
+----------
+Apsikeisk - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški      žieminiai      32          gera    juoda
+  vaikiški   pavasariniai      43    labai gera    mėlyna
+  vaikiški       rudeniai      36    labai gera    balta
+----------
+Telebimbam - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški       rudeniai      35   patenkinama    ruda
+----------
+Apsikeisk - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški      žieminiai      32          gera    juoda
+  vaikiški       rudeniai      36    labai gera    balta
+  vaikiški   pavasariniai      43    labai gera    mėlyna
+----------
+Telebimbam - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+Masyvas tuščias!
+----------
+Apsikeisk - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški      žieminiai      32          gera    juoda
+  vaikiški       rudeniai      36    labai gera    balta
+  vaikiški   pavasariniai      43    labai gera    mėlyna
+----------
+LABDARA 3
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+  vaikiški      žieminiai      31          gera    rožinė
+ moteriški   pavasariniai      21          gera    juoda
+   vyriški     vasariniai      54          gera    žalia
+----------
+Apsikeisk - vaikiški
+Batų tipas | Sezonas | Dydis | Būklė | Spalva
+ moteriški   pavasariniai      21          gera    juoda
+  vaikiški      žieminiai      31          gera    rožinė
+  vaikiški      žieminiai      32          gera    juoda
+  vaikiški       rudeniai      36    labai gera    balta
+  vaikiški   pavasariniai      43    labai gera    mėlyna
+   vyriški     vasariniai      54          gera    žalia
+----------

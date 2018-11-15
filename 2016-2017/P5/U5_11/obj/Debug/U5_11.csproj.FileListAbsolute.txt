@@ -1,0 +1,12 @@
+Z:\Visual CSharp\P5\P5\U5_11\bin\Debug\U5_11.exe.config
+Z:\Visual CSharp\P5\P5\U5_11\bin\Debug\U5_11.exe
+Z:\Visual CSharp\P5\P5\U5_11\bin\Debug\U5_11.pdb
+Z:\Visual CSharp\P5\P5\U5_11\obj\Debug\U5_11.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P5\P5\U5_11\obj\Debug\U5_11.exe
+Z:\Visual CSharp\P5\P5\U5_11\obj\Debug\U5_11.pdb
+Z:\Visual CSharp\P5\U5_11\bin\Debug\U5_11.exe.config
+Z:\Visual CSharp\P5\U5_11\obj\Debug\U5_11.exe
+Z:\Visual CSharp\P5\U5_11\obj\Debug\U5_11.pdb
+Z:\Visual CSharp\P5\U5_11\bin\Debug\U5_11.exe
+Z:\Visual CSharp\P5\U5_11\bin\Debug\U5_11.pdb
+Z:\Visual CSharp\P5\U5_11\obj\Debug\U5_11.csprojResolveAssemblyReference.cache

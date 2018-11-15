@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\bin\Debug\Firmos automobilių degalų sąnaudos.exe.config
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\bin\Debug\Firmos automobilių degalų sąnaudos.exe
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\bin\Debug\Firmos automobilių degalų sąnaudos.pdb
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\obj\Debug\Firmos automobilių degalų sąnaudos.exe
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\obj\Debug\Firmos automobilių degalų sąnaudos.pdb
+Z:\Visual CSharp\P3\Firmos automobilių degalų sąnaudos\obj\Debug\Firmos automobilių degalų sąnaudos.csprojResolveAssemblyReference.cache

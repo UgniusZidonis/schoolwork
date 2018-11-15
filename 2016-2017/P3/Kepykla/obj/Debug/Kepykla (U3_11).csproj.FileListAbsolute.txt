@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P3\Kepykla\bin\Debug\Kepykla.exe.config
+Z:\Visual CSharp\P3\Kepykla\obj\Debug\Kepykla.exe
+Z:\Visual CSharp\P3\Kepykla\obj\Debug\Kepykla.pdb
+Z:\Visual CSharp\P3\Kepykla\bin\Debug\Kepykla.exe
+Z:\Visual CSharp\P3\Kepykla\bin\Debug\Kepykla.pdb
+Z:\Visual CSharp\P3\Kepykla\obj\Debug\Kepykla (U3_11).csprojResolveAssemblyReference.cache

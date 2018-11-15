@@ -1,0 +1,6 @@
+Z:\Visual C#\L1pirma-1\SudetingasIf\bin\Debug\SudetingasIf.exe.config
+Z:\Visual C#\L1pirma-1\SudetingasIf\bin\Debug\SudetingasIf.exe
+Z:\Visual C#\L1pirma-1\SudetingasIf\bin\Debug\SudetingasIf.pdb
+Z:\Visual C#\L1pirma-1\SudetingasIf\obj\Debug\SudetingasIf.exe
+Z:\Visual C#\L1pirma-1\SudetingasIf\obj\Debug\SudetingasIf.pdb
+Z:\Visual C#\L1pirma-1\SudetingasIf\obj\Debug\SudetingasIf.csprojResolveAssemblyReference.cache

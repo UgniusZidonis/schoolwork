@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P5\P5\Išmesti tuščias eilutes\bin\Debug\Išmesti tuščias eilutes.exe.config
+Z:\Visual CSharp\P5\P5\Išmesti tuščias eilutes\bin\Debug\Išmesti tuščias eilutes.exe
+Z:\Visual CSharp\P5\P5\Išmesti tuščias eilutes\bin\Debug\Išmesti tuščias eilutes.pdb
+Z:\Visual CSharp\P5\P5\Išmesti tuščias eilutes\obj\Debug\Išmesti tuščias eilutes.exe
+Z:\Visual CSharp\P5\P5\Išmesti tuščias eilutes\obj\Debug\Išmesti tuščias eilutes.pdb

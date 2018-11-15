@@ -1,0 +1,12 @@
+Z:\Visual C#\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.exe.config
+Z:\Visual C#\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.exe
+Z:\Visual C#\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.pdb
+Z:\Visual C#\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.csprojResolveAssemblyReference.cache
+Z:\Visual C#\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.exe
+Z:\Visual C#\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.pdb
+Z:\Visual CSharp\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.exe.config
+Z:\Visual CSharp\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.exe
+Z:\Visual CSharp\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.pdb
+Z:\Visual CSharp\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.exe
+Z:\Visual CSharp\P3\Barbora ir Anupras\bin\Debug\Barbora ir Anupras.pdb
+Z:\Visual CSharp\P3\Barbora ir Anupras\obj\Debug\Barbora ir Anupras.csprojResolveAssemblyReference.cache

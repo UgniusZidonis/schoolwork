@@ -1,0 +1,10 @@
+﻿Informatikos fakultetas
+Petraitis; Jonas; IF-1/9; 4; 10 1 1 1
+Algaitis; Algis; IF-1/8; 4; 7 9 4 3
+Petraitis; Kazys; IF-1/9; 5; 9 4 4 9 10
+Algaitis; Rimas; IF-1/8; 6; 1 6 7 5 10 10
+Petraitis; Vytas; IF-1/9; 4; 10 10 10 9
+Petraitis; Anupras; IF-1/9; 4; 6 4 4 10
+Etraitis; Vidas; IF-1/9; 7; 10 10 10 10 10 10 10
+Petraitis; Anzelmas; IF-1/9; 5; 10 6 4 8 10
+Petraitis; Arūnas; IF-1/8; 1; 10

@@ -1,0 +1,8 @@
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.exe.config
+Z:\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.exe
+Z:\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.pdb
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.exe
+Z:\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Bokštas\bin\Debug\Plytos_Bokštas.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Bokštas\obj\Debug\Plytos_Bokštas.pdb

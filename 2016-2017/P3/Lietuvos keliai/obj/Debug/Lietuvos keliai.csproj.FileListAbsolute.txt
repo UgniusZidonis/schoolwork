@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P3\Lietuvos keliai\bin\Debug\Lietuvos keliai.exe.config
+Z:\Visual CSharp\P3\Lietuvos keliai\bin\Debug\Lietuvos keliai.exe
+Z:\Visual CSharp\P3\Lietuvos keliai\bin\Debug\Lietuvos keliai.pdb
+Z:\Visual CSharp\P3\Lietuvos keliai\obj\Debug\Lietuvos keliai.exe
+Z:\Visual CSharp\P3\Lietuvos keliai\obj\Debug\Lietuvos keliai.pdb

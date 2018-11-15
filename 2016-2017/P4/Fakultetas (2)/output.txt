@@ -1,0 +1,34 @@
+Pradinis studentų sąrašas
+------------------------------------------
+ Pavardė     Vardas     Grupė    Pažymiai 
+------------------------------------------
+Petraitis    Jonas     IF-1/9  10  1  1  1
+Algaitis     Algis     IF-1/8   7  9  4  3
+Petraitis    Kazys     IF-1/9   9  4  4  9 10
+Algaitis     Rimas     IF-1/8   1  6  7  5 10 10
+Petraitis    Vytas     IF-1/9  10 10 10  9
+Petraitis    Anupras   IF-1/9   6  4  4 10
+Etraitis     Vidas     IF-1/9  10 10 10 10 10 10 10
+Petraitis    Anzelmas  IF-1/9  10  6  4  8 10
+Petraitis    Arūnas    IF-1/8  10
+Grupės vidurkis: 7,3
+------------------------------------------
+
+Bendras surikiuotas studentų sąrašas
+------------------------------------------
+ Pavardė     Vardas     Grupė    Pažymiai 
+------------------------------------------
+Petraitis    Arūnas    IF-1/8  10
+Algaitis     Rimas     IF-1/8   1  6  7  5 10 10
+Algaitis     Algis     IF-1/8   7  9  4  3
+Etraitis     Vidas     IF-1/9  10 10 10 10 10 10 10
+Petraitis    Vytas     IF-1/9  10 10 10  9
+Petraitis    Anzelmas  IF-1/9  10  6  4  8 10
+Petraitis    Kazys     IF-1/9   9  4  4  9 10
+Petraitis    Anupras   IF-1/9   6  4  4 10
+Petraitis    Jonas     IF-1/9  10  1  1  1
+Grupės vidurkis: 7,3
+------------------------------------------
+
+IF-1/8 grupės vidurkis: 7,42
+IF-1/9 grupės vidurkis: 7,30

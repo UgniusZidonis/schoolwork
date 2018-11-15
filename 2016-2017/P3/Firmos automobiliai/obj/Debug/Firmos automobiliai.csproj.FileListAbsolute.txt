@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P3\Firmos automobiliai\bin\Debug\Firmos automobiliai.exe.config
+Z:\Visual CSharp\P3\Firmos automobiliai\bin\Debug\Firmos automobiliai.exe
+Z:\Visual CSharp\P3\Firmos automobiliai\bin\Debug\Firmos automobiliai.pdb
+Z:\Visual CSharp\P3\Firmos automobiliai\obj\Debug\Firmos automobiliai.exe
+Z:\Visual CSharp\P3\Firmos automobiliai\obj\Debug\Firmos automobiliai.pdb

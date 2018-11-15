@@ -1,0 +1,12 @@
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\bin\Debug\LDS_1.exe.config
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\obj\Debug\LDS_1.csprojResolveAssemblyReference.cache
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\bin\Debug\LDS_1.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\bin\Debug\LDS_1.pdb
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\obj\Debug\LDS_1.exe
+C:\Users\xuzid\Dropbox\Mokykla\Informatika\Visual CSharp\Uždaviniai\LDS\LDS_1\obj\Debug\LDS_1.pdb
+Z:\Visual CSharp\LDS\LDS_1\bin\Debug\LDS_1.exe.config
+Z:\Visual CSharp\LDS\LDS_1\obj\Debug\LDS_1.exe
+Z:\Visual CSharp\LDS\LDS_1\obj\Debug\LDS_1.pdb
+Z:\Visual CSharp\LDS\LDS_1\bin\Debug\LDS_1.exe
+Z:\Visual CSharp\LDS\LDS_1\bin\Debug\LDS_1.pdb
+Z:\Visual CSharp\LDS\LDS_1\obj\Debug\LDS_1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+Z:\Visual CSharp\PirmaProgramaSuGUI\PirmaProgramaSuGUI\bin\Debug\PirmaProgramaSuGUI.exe.config
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\PirmaProgramaSuGUI\bin\Debug\PirmaProgramaSuGUI.exe.config
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\bin\Debug\PirmaProgramaSuGUI.exe.config
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\bin\Debug\PirmaProgramaSuGUI.exe
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\bin\Debug\PirmaProgramaSuGUI.pdb
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\obj\Debug\PirmaProgramaSuGUI.Properties.Resources.resources
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\obj\Debug\PirmaProgramaSuGUI.csproj.GenerateResource.Cache
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\obj\Debug\PirmaProgramaSuGUI.exe
+Z:\Visual CSharp\GUI\PirmaProgramaSuGUI\obj\Debug\PirmaProgramaSuGUI.pdb

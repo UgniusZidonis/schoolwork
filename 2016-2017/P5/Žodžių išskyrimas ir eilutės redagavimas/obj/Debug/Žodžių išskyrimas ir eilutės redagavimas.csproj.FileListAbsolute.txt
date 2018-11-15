@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\bin\Debug\Žodžių išskyrimas ir eilutės redagavimas.exe.config
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\bin\Debug\Žodžių išskyrimas ir eilutės redagavimas.exe
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\bin\Debug\Žodžių išskyrimas ir eilutės redagavimas.pdb
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\obj\Debug\Žodžių išskyrimas ir eilutės redagavimas.exe
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\obj\Debug\Žodžių išskyrimas ir eilutės redagavimas.pdb
+Z:\Visual CSharp\P5\P5\Žodžių išskyrimas ir eilutės redagavimas\obj\Debug\Žodžių išskyrimas ir eilutės redagavimas.csprojResolveAssemblyReference.cache

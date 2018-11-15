@@ -1,0 +1,5 @@
+Z:\Visual C#\L1pirma-1\Ciklas\bin\Debug\Ciklas.exe.config
+Z:\Visual C#\L1pirma-1\Ciklas\bin\Debug\Ciklas.exe
+Z:\Visual C#\L1pirma-1\Ciklas\bin\Debug\Ciklas.pdb
+Z:\Visual C#\L1pirma-1\Ciklas\obj\Debug\Ciklas.exe
+Z:\Visual C#\L1pirma-1\Ciklas\obj\Debug\Ciklas.pdb

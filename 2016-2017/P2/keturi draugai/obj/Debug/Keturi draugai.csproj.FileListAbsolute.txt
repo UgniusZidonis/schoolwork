@@ -1,0 +1,5 @@
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai\bin\Debug\Keturi draugai.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai\obj\Debug\Keturi draugai.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Keturi draugai\obj\Debug\Keturi draugai.pdb

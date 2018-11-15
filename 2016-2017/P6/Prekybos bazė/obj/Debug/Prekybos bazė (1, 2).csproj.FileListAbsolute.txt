@@ -1,0 +1,5 @@
+Z:\Visual CSharp\P6\Prekybos bazė\bin\Debug\Prekybos bazė.exe.config
+Z:\Visual CSharp\P6\Prekybos bazė\bin\Debug\Prekybos bazė.exe
+Z:\Visual CSharp\P6\Prekybos bazė\bin\Debug\Prekybos bazė.pdb
+Z:\Visual CSharp\P6\Prekybos bazė\obj\Debug\Prekybos bazė.exe
+Z:\Visual CSharp\P6\Prekybos bazė\obj\Debug\Prekybos bazė.pdb

@@ -1,0 +1,9 @@
+﻿x = y; /* a */ y = p; /* */ z = u;
+x = 1; // abc
+/*
+a
+b
+c
+*/
+"ABC/**/ a //abc" x = y;
+Pabaiga

@@ -1,0 +1,3 @@
+Z:\Visual CSharp\P3\Dviratis\bin\Debug\Dviratis.exe.config
+Z:\Visual CSharp\P3\Dviratis\obj\Debug\Dviratis.exe
+Z:\Visual CSharp\P3\Dviratis\obj\Debug\Dviratis.pdb

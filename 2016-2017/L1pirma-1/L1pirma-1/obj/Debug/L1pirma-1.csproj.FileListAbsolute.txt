@@ -1,0 +1,6 @@
+Z:\Visual C#\L1pirma-1\L1pirma-1\bin\Debug\L1pirma-1.exe.config
+Z:\Visual C#\L1pirma-1\L1pirma-1\bin\Debug\L1pirma-1.exe
+Z:\Visual C#\L1pirma-1\L1pirma-1\bin\Debug\L1pirma-1.pdb
+Z:\Visual C#\L1pirma-1\L1pirma-1\obj\Debug\L1pirma-1.csprojResolveAssemblyReference.cache
+Z:\Visual C#\L1pirma-1\L1pirma-1\obj\Debug\L1pirma-1.exe
+Z:\Visual C#\L1pirma-1\L1pirma-1\obj\Debug\L1pirma-1.pdb

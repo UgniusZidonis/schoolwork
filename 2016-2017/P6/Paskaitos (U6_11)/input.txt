@@ -1,0 +1,11 @@
+﻿6 4
+Jonaitis;Jonas;A;ac;
+Aleksaitė;Alina;B;ba;
+Petraitis;Petras;C;ca;
+Antanaitis;Antanas;B;bb;
+Juozaitis;Juozas;B;bb;
+Mantaitis;Obuolys;A;aa
+1 2 1 2 3 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0

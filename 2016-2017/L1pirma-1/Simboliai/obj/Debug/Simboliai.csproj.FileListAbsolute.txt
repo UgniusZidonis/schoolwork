@@ -1,0 +1,6 @@
+Z:\Visual C#\L1pirma-1\Simboliai\bin\Debug\Simboliai.exe.config
+Z:\Visual C#\L1pirma-1\Simboliai\bin\Debug\Simboliai.exe
+Z:\Visual C#\L1pirma-1\Simboliai\bin\Debug\Simboliai.pdb
+Z:\Visual C#\L1pirma-1\Simboliai\obj\Debug\Simboliai.csprojResolveAssemblyReference.cache
+Z:\Visual C#\L1pirma-1\Simboliai\obj\Debug\Simboliai.exe
+Z:\Visual C#\L1pirma-1\Simboliai\obj\Debug\Simboliai.pdb

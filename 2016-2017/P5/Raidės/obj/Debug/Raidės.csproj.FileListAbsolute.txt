@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P5\P5\Raidės\bin\Debug\Raidės.exe.config
+Z:\Visual CSharp\P5\P5\Raidės\bin\Debug\Raidės.exe
+Z:\Visual CSharp\P5\P5\Raidės\bin\Debug\Raidės.pdb
+Z:\Visual CSharp\P5\P5\Raidės\obj\Debug\Raidės.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P5\P5\Raidės\obj\Debug\Raidės.exe
+Z:\Visual CSharp\P5\P5\Raidės\obj\Debug\Raidės.pdb

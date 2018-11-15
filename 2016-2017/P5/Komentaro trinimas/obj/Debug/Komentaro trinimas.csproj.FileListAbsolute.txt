@@ -1,0 +1,6 @@
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\bin\Debug\Komentaro trinimas.exe.config
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\bin\Debug\Komentaro trinimas.exe
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\bin\Debug\Komentaro trinimas.pdb
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\obj\Debug\Komentaro trinimas.csprojResolveAssemblyReference.cache
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\obj\Debug\Komentaro trinimas.exe
+Z:\Visual CSharp\P5\P5\Komentaro trinimas\obj\Debug\Komentaro trinimas.pdb

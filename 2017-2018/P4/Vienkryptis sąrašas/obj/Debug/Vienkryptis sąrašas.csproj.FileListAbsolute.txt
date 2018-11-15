@@ -1,0 +1,14 @@
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.exe.config
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\bin\Debug\P4.pdb
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\Vienkryptis sąrašas.csprojResolveAssemblyReference.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\Vienkryptis sąrašas.csproj.CoreCompileInputs.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017\P4\obj\Debug\P4.pdb
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\bin\Debug\P4.exe.config
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\bin\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\bin\Debug\P4.pdb
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\obj\Debug\Vienkryptis sąrašas.csprojResolveAssemblyReference.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\obj\Debug\Vienkryptis sąrašas.csproj.CoreCompileInputs.cache
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\obj\Debug\P4.exe
+C:\Users\Ugnius Židonis\Dropbox\Mokykla\Informatika\C#\Tasks\2017-2018\P4\Vienkryptis sąrašas\obj\Debug\P4.pdb

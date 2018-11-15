@@ -1,0 +1,33 @@
+Pirmas sąrašas
+|----------------------------------------------------------------------------------------|
+| Manufacturer |   Name   |  Metal  | Purity |   Distinction   | Size | Weight |  Price  |
+|----------------------------------------------------------------------------------------|
+|   Blizgučiai |   Žirgas |    Gold |  999,0 |           Jokio |    4 |    125 | 1250,00 |
+|   Blizgučiai |   Skydas |    Gold |  666,0 |           Jokio |    2 |    100 |  700,00 |
+|    Deimantas |    Hurka |    Iron |  100,0 |           Jokio |    5 |    200 |   50,00 |
+|   Blizgučiai |     Jūra |  Silver |  456,0 |           Jokio |    7 |     80 |  250,00 |
+|    Deimantas |     Ohas |  Silver |  489,0 |           Jokio |    1 |     55 |  145,00 |
+|     Rotoriai |  Batonas |    Iron |  642,0 |           Jokio |    7 |     69 |   52,00 |
+|     Rotoriai | Geltonas |   Brass |  444,0 |           Jokio |    9 |     54 |  100,00 |
+|----------------------------------------------------------------------------------------|
+Brangiausi du žiedai
+|----------------------------------------------------------------------------------------|
+| Manufacturer |   Name   |  Metal  | Purity |   Distinction   | Size | Weight |  Price  |
+|----------------------------------------------------------------------------------------|
+|   Blizgučiai |   Žirgas |    Gold |  999,0 |           Jokio |    4 |    125 | 1250,00 |
+|   Blizgučiai |   Skydas |    Gold |  666,0 |           Jokio |    2 |    100 |  700,00 |
+|----------------------------------------------------------------------------------------|
+
+Žiedų daugiausiai yra: equal
+
+Gamintojų sąrašas
+Blizgučiai  3
+ Deimantas  2
+  Rotoriai  2
+
+Rikiuotas sąrašas
+|----------------------------------------------------------------------------------------|
+| Manufacturer |   Name   |  Metal  | Purity |   Distinction   | Size | Weight |  Price  |
+|----------------------------------------------------------------------------------------|
+|   Blizgučiai |   Žirgas |    Gold |  999,0 |           Jokio |    4 |    125 | 1250,00 |
+|----------------------------------------------------------------------------------------|

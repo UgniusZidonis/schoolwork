@@ -1,0 +1,7 @@
+Blizguèiai; Þirgas;   Gold; 999; Jokio; 4; 125; 1250
+Blizguèiai; Skydas;   Gold; 666; Jokio; 2; 100;  700
+Deimantas;   Hurka;   Iron; 100; Jokio; 5; 200;   50
+Blizguèiai;   Jûra; Silver; 456; Jokio; 7;  80;  250
+Deimantas;    Ohas; Silver; 489; Jokio; 1;  55;  145
+Rotoriai;  Batonas;   Iron; 642; Jokio; 7;  69;   52 
+Rotoriai; Geltonas;  Brass; 444; Jokio; 9;  54;  100

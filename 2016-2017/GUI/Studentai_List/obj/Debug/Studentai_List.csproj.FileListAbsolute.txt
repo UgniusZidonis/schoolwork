@@ -1,0 +1,20 @@
+Z:\Visual CSharp\GUI\Studentai_GUI\bin\Debug\Studentai_GUI.exe.config
+Z:\Visual CSharp\GUI\Studentai_GUI\obj\Debug\Studentai_GUI.exe
+Z:\Visual CSharp\GUI\Studentai_GUI\obj\Debug\Studentai_GUI.pdb
+Z:\Visual CSharp\GUI\Studentai_GUI\bin\Debug\Studentai_GUI.exe
+Z:\Visual CSharp\GUI\Studentai_GUI\bin\Debug\Studentai_GUI.pdb
+Z:\Visual CSharp\GUI\Studentai_GUI\obj\Debug\Studentai_List.Form1.resources
+Z:\Visual CSharp\GUI\Studentai_GUI\obj\Debug\Studentai_GUI.Properties.Resources.resources
+Z:\Visual CSharp\GUI\Studentai_GUI\obj\Debug\Studentai_List.csproj.GenerateResource.Cache
+Z:\Visual CSharp\GUI\Studentai_List\bin\Debug\Studentai_GUI.exe.config
+Z:\Visual CSharp\GUI\Studentai_List\obj\Debug\Studentai_GUI.exe
+Z:\Visual CSharp\GUI\Studentai_List\obj\Debug\Studentai_GUI.pdb
+Z:\C#\GUI\Studentai_List\bin\Debug\Studentai_GUI.exe.config
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_GUI.exe
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_GUI.pdb
+Z:\C#\GUI\Studentai_List\bin\Debug\Studentai_GUI.exe
+Z:\C#\GUI\Studentai_List\bin\Debug\Studentai_GUI.pdb
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_List.Form1.resources
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_GUI.Properties.Resources.resources
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_List.csproj.GenerateResource.Cache
+Z:\C#\GUI\Studentai_List\obj\Debug\Studentai_List.csprojResolveAssemblyReference.cache

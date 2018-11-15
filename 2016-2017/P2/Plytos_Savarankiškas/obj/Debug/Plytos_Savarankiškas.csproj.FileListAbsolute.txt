@@ -1,0 +1,12 @@
+Z:\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.exe.config
+Z:\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.exe
+Z:\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.pdb
+Z:\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.exe
+Z:\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.exe.config
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.exe
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\bin\Debug\Plytos_Savarankiškas.pdb
+C:\Users\Citrius\Dropbox\Mokykla\Informatika\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.csprojResolveAssemblyReference.cache
+Z:\Visual C#\P2\Plytos_Savarankiškas\obj\Debug\Plytos_Savarankiškas.csprojResolveAssemblyReference.cache

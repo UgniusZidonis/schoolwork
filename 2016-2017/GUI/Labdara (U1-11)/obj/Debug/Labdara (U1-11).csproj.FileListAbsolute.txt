@@ -1,0 +1,18 @@
+Z:\Visual CSharp\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).exe.config
+Z:\Visual CSharp\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).exe
+Z:\Visual CSharp\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).pdb
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara__U1_11_.Form1.resources
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara__U1_11_.Properties.Resources.resources
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).csproj.GenerateResource.Cache
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).exe
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).pdb
+Z:\Visual CSharp\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).csprojResolveAssemblyReference.cache
+Z:\C#\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).exe.config
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).exe
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).pdb
+Z:\C#\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).exe
+Z:\C#\GUI\Labdara (U1-11)\bin\Debug\Labdara (U1-11).pdb
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).csprojResolveAssemblyReference.cache
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara__U1_11_.Form1.resources
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara__U1_11_.Properties.Resources.resources
+Z:\C#\GUI\Labdara (U1-11)\obj\Debug\Labdara (U1-11).csproj.GenerateResource.Cache

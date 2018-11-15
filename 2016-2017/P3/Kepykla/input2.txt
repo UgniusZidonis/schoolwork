@@ -1,0 +1,3 @@
+﻿Biržų duona
+Šeimininkės;ruginiai;2;1,1;6
+Ajerų;ruginiai;3;0,7;7

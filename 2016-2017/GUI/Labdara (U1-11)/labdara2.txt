@@ -1,0 +1,8 @@
+﻿Apsikeisk
+vaikiški; žieminiai; 32; juoda; gera
+moteriški; pavasariniai; 41; mėlyna; labai gera
+vyriški; vasariniai; 43; ruda; labai gera
+vyriški; pavasariniai; 43; pilka; gera
+vaikiški; pavasariniai; 43; mėlyna; labai gera
+vaikiški; rudeniai; 36; balta; labai gera
+moteriški; žieminiai; 42; juoda; labai gera

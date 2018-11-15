@@ -1,0 +1,5 @@
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Uždaviniai/Home/P4/Fakultetas.2./obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Uždaviniai/Home/P4/Fakultetas.2./bin/Debug/Fakultetas.2..exe.mdb
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Uždaviniai/Home/P4/Fakultetas.2./bin/Debug/Fakultetas.2..exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Uždaviniai/Home/P4/Fakultetas.2./obj/x86/Debug/Fakultetas.2..exe
+/home/ugnius/Dropbox/Mokykla/Informatika/Visual CSharp/Uždaviniai/Home/P4/Fakultetas.2./obj/x86/Debug/Fakultetas.2..exe.mdb
